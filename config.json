@@ -1,0 +1,28 @@
+{
+	
+	"bantuan" : {
+		"help" : "Intercept dapatkan headers X-xxx diblibli"
+		},
+		
+	"data_headers" : {
+		"X-Userid" : "a71dc28b-b3e6-4948-8386-45330946b974",
+		"X-Sessionid" : "8e2cba33-647a-41c9-bccf-70582aac993b",
+		"X-Requestid" : "0c720b01-8e49-4e62-bd89-2c80be1cf15b"
+		},
+		
+	"referral" : {
+		"url" : "xxxxx"
+		},
+		
+	"data_user" : {
+		"password" : "@Sangkara123"
+		},
+	
+	"setting_user" : {
+		"event_referral" : true,
+		"manual_link" : true,
+		"jumlah_referral" : 5,
+		"APIKEY" : "akc0m"
+		}
+		
+}
